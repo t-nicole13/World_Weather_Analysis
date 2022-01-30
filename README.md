@@ -45,10 +45,10 @@
 
 ## Results
 - City Latitude vs Maximum Temperature: The temperature decreases when the latitude increases.
-weather_data/Fig1.png
+    ![Fig1](https://user-images.githubusercontent.com/33010018/151690116-d608cc67-b019-4b29-939f-c6c77e3c6452.png)
 
 - For City Latitude vs Humidity, City Latitude vs Cloudiness, and City Latitude vs Wind Speed, the markers are all over the place on each map.  I couldn't determine if the latitude affected the humidity, cloudiness, or wind speed.
-weather_data/Fig2.png  weather_data/Fig3.png  weather_data/Fig4.png
+![Fig2](https://user-images.githubusercontent.com/33010018/151690124-5d4dd4e2-3ed3-4c35-a8ca-20ec71972a3c.png)  ![Fig3](https://user-images.githubusercontent.com/33010018/151690130-eed50364-0eae-4c11-a283-6bad22c434d4.png) ![Fig4](https://user-images.githubusercontent.com/33010018/151690135-2a81a9ff-1ad6-4c8a-a1fb-411d8aaf3263.png)
 - Correlation
     - Latitude vs Max Temperature (Northern Hemisphere): The max temperature decreases when the latitude increases.
     - Latitude vs Max Temperature (Southern Hemisphere): Can't determine a strong correlation between the 2 values.
