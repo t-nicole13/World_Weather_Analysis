@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Objective
-The purpose of this project wass to use weather data to find ideal hotels based on weather prefrences.   This marks the first time I will use APIs.  API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. The APIs used for this project were OpenWeatherMap API,  Google Maps & Places API, and Google Directions API.
+The purpose of this project is to use weather data to find ideal hotels based on weather prefrences.   This marks the first time I will use APIs.  API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. The APIs used for this project were OpenWeatherMap API,  Google Maps & Places API, and Google Directions API.
 
 ### Analysis:
     1.  Collect the data: 
@@ -46,7 +46,10 @@ Requests 2.26.0,
 SciPy 
 
 ### All About APIs
-- https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.
+- https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API
+- https://openweathermap.org/current
+- https://developers.google.com/maps/documentation/places/web-service/overview
+- https://developers.google.com/maps/documentation/directions/overview
 
 
 
@@ -78,16 +81,19 @@ SciPy
     - Latitude vs Wind Speed (Northern Hemisphere): Can't determine a strong correlation between the 2 values.
     - Latitude vs Wind Speed (Northern Hemisphere): Can't determine a strong correlation between the 2 values.
 
-- Vacation Itinerary
-    - Travel Map
-    ![WeatherPy_travel_map](https://user-images.githubusercontent.com/33010018/151690195-fafff25d-329c-4c8a-a03b-d532aef92adc.png)
+### Vacation Itinerary Example
+#### Travel Map 
     
-    - Travel Map Markers
-    ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/33010018/151690214-75213aae-fe7b-4fb8-a26c-4db0580e2282.png)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/33010018/151690195-fafff25d-329c-4c8a-a03b-d532aef92adc.png)
+    
+#### Travel Map Markers
+    
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/33010018/151690214-75213aae-fe7b-4fb8-a26c-4db0580e2282.png)
 
-- Vacation Search
-    - Weather Vacation Map
-    ![ WeatherPy_vacation_map](https://user-images.githubusercontent.com/33010018/151690258-f65207e5-0f59-41d4-b3be-9d8df46a3f01.png)
+### Vacation Search
+#### Weather Vacation Map
+    
+![ WeatherPy_vacation_map](https://user-images.githubusercontent.com/33010018/151690258-f65207e5-0f59-41d4-b3be-9d8df46a3f01.png)
 
 
 
