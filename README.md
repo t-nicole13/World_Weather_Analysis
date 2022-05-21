@@ -33,11 +33,11 @@ The purpose of this project is to use weather data to find ideal hotels based on
 
 ## Resources
 
-### Software/Languages: 
+### Software/Languages 
 Python 3.7.11, 
 Jupyter Notebook 6.4.5
 
-### Libraries: 
+### Libraries
 Numpy 1.20.3, 
 Pandas 1.3.4, 
 Matplotlib 3.5.0, 
@@ -54,7 +54,7 @@ SciPy
 
 
 ## Results
-### City Latitude vs Maximum Temperature: 
+### City Latitude vs Maximum Temperature:
 - The temperature decreases when the latitude increases. 
 
 ![Fig1](https://user-images.githubusercontent.com/33010018/151690116-d608cc67-b019-4b29-939f-c6c77e3c6452.png)
